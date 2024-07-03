@@ -1,0 +1,124 @@
+*{
+    font-family: Oxanium !important;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+nav {
+    background-color: #20242D !important;
+    box-shadow: 0 3px 10px rgba(1, 238, 254, 1) !important;
+}
+
+nav a {
+    color:#F3F3F4 !important;
+}
+
+nav .navbar-toggler {
+    background-color:#F3F3F4 !important;
+}
+.dropdown-menu a {
+    color: #20242D !important;
+}
+#landing {
+	background: 
+		linear-gradient(
+			rgba(32, 36, 45, .9),
+			rgba(32, 36, 45, .9)
+		),
+
+		url("images/chris-ried-ieic5Tq8YMk-unsplash.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+        color:#F3F3F4 !important;
+}
+
+#landing #greeting {
+    background-color: #20242D !important;
+    box-shadow: 0 3px 10px rgba(1, 238, 254, 1) !important;
+    width: 450px;
+    height: fit-content;
+}
+
+#landing img {
+    border-radius: 50%;
+    box-shadow: 0 6px 10px rgba(1, 238, 254, 1) !important;
+    width: 450px;
+    height: fit-content;
+}
+
+#landing h1 {
+    color: #01EEFE;
+}
+
+
+#contact #socials {
+    background-color: #7E8287;
+    color: #F3F3F4;
+}
+
+#contact #socials a img {
+    height: 100px;
+    margin: 5px;
+}
+
+#contact #contact-form {
+    background-color: #468189 !important;
+    color: #F3F3F4 !important;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #01EEFE !important;
+    border: none !important;
+    color: #20242D !important;
+}
+
+#contact form div {
+    text-align: start;
+    padding-bottom: 3rem;
+}
+
+
+
+
+#projects {
+    background: #F3F3F4;
+    color: #20242D  !important;
+    width: auto;
+}
+
+#projects h2 {
+    text-align: center;
+}
+
+#projects img {
+    height: 250px;
+    padding: 2px;
+    width: 350px;
+    align-self: center;
+    margin-top: 2px;
+}
+
+#projects .card {
+    box-shadow: 0 3px 10px rgba(1, 238, 254, 1) !important;
+    width: 20em;
+    margin: 5px
+
+}
+
+#tools {
+    background-color: #20242D;
+    color: #F3F3F4;
+}
+
+#tools img {
+    max-width: 100%;
+    height: auto;
+    width: 8rem;
+    background-color: #7E8287;
+}
+
