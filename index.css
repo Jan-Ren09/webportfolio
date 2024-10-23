@@ -66,43 +66,24 @@ nav .navbar-toggler {
     box-sizing: border-box;
 }
 
-button {
-    background-color: #01EEFE !important;
-    border: none !important;
-    color: #20242D !important;
-}
-
-#contact form div {
-    text-align: start;
-    padding-bottom: 3rem;
-}
-
-
-
 
 #projects {
     background: #F3F3F4;
-    color: #20242D  !important;
-    width: auto;
 }
 
-#projects h2 {
-    text-align: center;
-}
-
-#projects img {
-    height: 250px;
-    padding: 2px;
-    width: 350px;
-    align-self: center;
-    margin-top: 2px;
-}
 
 #projects .card {
     box-shadow: 0 3px 10px rgba(1, 238, 254, 1) !important;
-    border-radius: 5%;
-    margin-bottom: 5px;
 }
+
+#projects .card-min-h {
+    min-height: 51em;
+}
+
+#projects .card-min-h2 {
+    min-height: 56em;
+}
+
 
 #tools {
     background-color: #20242D;
